@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** Chitkarsh Rathi
-- **CCID:** `chitkars
+- **CCID:** chitkars
 
 ## References and Resources
 
